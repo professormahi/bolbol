@@ -1,0 +1,3 @@
+[submodule "tts-server/Tacotron-2-Persian"]
+	path = tts-server/Tacotron-2-Persian
+	url = https://github.com/alirezaomidi/Tacotron-2-Persian
